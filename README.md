@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @Ajaymali
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++ language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in competetive programming (CP).
+- 🌱 I’m currently learning DSA with C++ language.
+- 💞️ I’m looking to collaborate on any MERN (FULL-stack) project.
 - author:- Ajay Mali
 
-<!---
-Ajaymali2004/Ajaymali2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
